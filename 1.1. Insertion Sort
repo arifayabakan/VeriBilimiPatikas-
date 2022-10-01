@@ -15,6 +15,7 @@ Sorular ve cevaplar aşağıdaki gibidir:
 
 2) Big-O gösterimini yazınız.
 Worst Case: n! = n*(n+1)/2 = (n^2+n)/2 = O(n^2)
+Input arttığı zaman, n^2 olacak şekilde çalışma süresinin arttığı anlaşılmaktadır.
 
 3) Time Complexity: Average case: Aradığımız sayının ortada olması, Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Bu dizine göre 18 sayısı average case kapsamına girdiği anlaşılmaktadır.
