@@ -1,0 +1,2 @@
+# VeriBilimiPatikas-
+www.patika.dev
