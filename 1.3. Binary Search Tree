@@ -1,0 +1,18 @@
+#VeriBilimiPatikası
+
+Binary Search Tree Projesi
+
+1) [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+
+Adımlar:
+i) Root: 7 dir.
+ii) 5 Sayısı 7'den küçük olduğu için 7'nin soluna eklenir.
+iii) 1 Sayısı 7'den ve 5'den küçük olduğu için 5'in soluna eklenir.
+iv) 8 Sayısı 7'den büyük olduğu için 7'nin sağına eklenir.
+v) 3 Sayısı 7 ve 5'den küçük, 1'den büyük olduğu için 1'in sağına eklenir.
+vi) 6 Sayısı 7'den küçük 5'den büyük olduğu için 5'in sağına eklenir.
+vii) 0 Sayısı 7'den 5 ve 1'den küçük olduğu için 1'in soluna eklenir.
+viii) 9 Sayısı 7'den ve 8'den büyük olduğu için 8'in sağına eklenir.
+ix) 4 Sayısı 7'den ve 5'den küçük, 1 ve 3'den büyük olduğu için 3'ün sağına eklenir.
+x) 2 Sayısı 7'den ve 5'den küçük, 1'den büyük olduğu için 1'in sağına, 3'den küçük olduğu için 3'ün soluna eklenir.
